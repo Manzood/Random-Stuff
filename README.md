@@ -1,6 +1,3 @@
 # Random-Stuff
-Just some random stuff is going to be added to this repository,
-It'll probably be deleted soon.
-Just figuring out how git works.
-
-Alright, this is the first change I am making at the moment.
+This is going to be a repository filled with random programs I have that I may (but probably won't) end up using in the future.
+That's it. That's the entire purpose of this repository.
